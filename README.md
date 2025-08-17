@@ -18,6 +18,9 @@ This Python project simulates a live fractional cryptocurrency trading portfolio
 - **Logging:** All trades are recorded to `trade_log.csv` for analysis
 - **Portfolio Summary:** Prints cash, coin holdings, and total portfolio value after each update
 
+  
+<img width="1024" height="1024" alt="Crypto_diagram" src="https://github.com/user-attachments/assets/822b26db-b2c6-4eac-aa61-94d5128ccc12" />
+
 ## Installation
 
 1. Clone this repository:
