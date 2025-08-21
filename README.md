@@ -21,6 +21,12 @@ This Python project simulates a live fractional cryptocurrency trading portfolio
   
 <img width="1024" height="1024" alt="Crypto_diagram" src="https://github.com/user-attachments/assets/822b26db-b2c6-4eac-aa61-94d5128ccc12" />
 
+
+## Performance
+
+<img width="1960" height="1154" alt="model_performance" src="https://github.com/user-attachments/assets/caf00ae6-6bda-4b7e-b61f-c34d3552669a" />
+
+
 ## Installation
 
 1. Clone this repository:
